@@ -1,0 +1,3 @@
+[submodule "lucastagawa.com/themes/docsy"]
+	path = lucastagawa.com/themes/docsy
+	url = https://github.com/google/docsy.git
